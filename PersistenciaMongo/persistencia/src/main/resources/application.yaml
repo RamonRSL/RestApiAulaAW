@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: api
+    data:
+        mongodb:
+            uri: mongodb+srv://ramonsilveira20:O22LTvl6yGVCh7Hw@dbitem.jlyth.mongodb.net/dbitem?retryWrites=true&w=majority&appName=DBItem
+
